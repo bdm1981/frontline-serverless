@@ -20,6 +20,9 @@ cp example.env .env
 
 # run service
 npm start
+
+# deploy project
+npm run deploy
 ```
 
 ## Environment variables
