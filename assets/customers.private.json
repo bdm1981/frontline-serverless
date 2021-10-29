@@ -1,0 +1,23 @@
+[
+  {
+    "customer_id": 98,
+    "display_name": "Sample Customer",
+    "channels": [
+      { "type": "email", "value": "customer@example.com" },
+      { "type": "sms", "value": "+1111" },
+      { "type": "whatsapp", "value": "whatsapp:+1111" }
+    ],
+    "links": [
+      {
+        "type": "Facebook",
+        "value": "https://facebook.com",
+        "display_name": "Social Media Profile"
+      }
+    ],
+    "details": {
+      "title": "Information",
+      "content": "Status: Active\n\nScore: 100"
+    },
+    "worker": "worker@example.com"
+  }
+]
